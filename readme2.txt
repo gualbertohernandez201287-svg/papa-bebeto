@@ -1,4 +1,4 @@
-archivo
+archivo 2
 de 
 prueba
 modiicando prueba
